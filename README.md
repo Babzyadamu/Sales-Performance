@@ -25,3 +25,23 @@ The aim of this analysis is to answer the following Business related questions
 - Calculated Columns
 - Conditional Formating
 - Data Visualization & Design (Using appropriate visuals to send appropriate message to stakeholders)
+
+# Data Source
+
+A simple Excel file was imported to Power BI.
+
+# Data Transformation/Cleaning/Manipulation:
+
+Transformation took place using power query. Column quality/distribution was checked for nulls and duplicates. A calculated column was created to get the revenue and profit column from price and quantity columns. 
+
+Also, A calendar table was created to build all necessary dates and a calculated column using DAX to tally the calendar date with the sales date.
+
+# Data Modelling:
+
+By default, Power BI automatically connects different tables using its intelligence; however, this connection doesn't always yield what you want. Hence it is best practice to do the connection yourself and use the star schema approach. I manually modelled the data using 1 to many relationships among the tables(Sales table was the fact table, while customer, products, Regions, calendar were dimension tables)
+
+![](Model.jpg)
+
+
+
+
