@@ -42,6 +42,12 @@ By default, Power BI automatically connects different tables using its intellige
 
 ![](Model.jpg)
 
+# Sales Performance Visualization
+
+Appropriate charts were used to give insights about the sales performance between 2018 and 2019. Cards, Line Charts and Bar Charts were used to give insights. Filters were used to ensure the sales date was equal to the calendar date inorder not to have dates outside the sales date. Doing this will avoid blanks appearing for dates that have no sales. Also, the filter on all pages was used to exclude the year 2017 as this analysis was focusing on 2018 & 2019 respectively.
+
+![](Sales_performance.jpg)
+
 
 
 
