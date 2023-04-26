@@ -36,7 +36,7 @@ Transformation took place using power query. Column quality/distribution was che
 
 Also, A calendar table was created to build all necessary dates and a calculated column using DAX to tally the calendar date with the sales date.
 
-![](Sales.date.jpg)
+![](Sales_date.jpg)
 
 # Data Modelling:
 
