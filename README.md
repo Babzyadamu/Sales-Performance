@@ -38,6 +38,10 @@ Also, A calendar table was created to build all necessary dates and a calculated
 
 ![](Sales_date.jpg)
 
+Additional transformation was also carried out on power query.
+
+![](Applied_steps.jpg)
+
 # Data Modelling:
 
 By default, Power BI automatically connects different tables using its intelligence; however, this connection doesn't always yield what you want. Hence it is best practice to do the connection yourself and use the star schema approach. I manually modelled the data using 1 to many relationships among the tables(Sales table was the fact table, while customer, products, Regions, calendar were dimension tables)
@@ -47,7 +51,6 @@ By default, Power BI automatically connects different tables using its intellige
 # Sales Performance Visualization
 
 Appropriate charts were used to give insights about the sales performance between 2018 and 2019. Cards, Line Charts and Bar Charts were used to give insights. Filters were used to ensure the sales date was equal to the calendar date inorder not to have dates outside the sales date. Doing this will avoid blanks appearing for dates that have no sales. Also, the filter on all pages was used to exclude the year 2017 as this analysis was focusing on 2018 & 2019 respectively.
-
 
 ![](Sales_performance.jpg)
 
