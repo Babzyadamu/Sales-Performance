@@ -23,4 +23,5 @@ The aim of this analysis is to answer the following Business related questions
 - Tooltip 
 - Filters
 - Calculated Columns
+- Conditional Formating
 - Data Visualization & Design (Using appropriate visuals to send appropriate message to stakeholders)
