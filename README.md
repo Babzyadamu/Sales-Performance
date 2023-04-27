@@ -70,4 +70,7 @@ In addition to this, I made use of the tool tip feature. This feature pops up wh
 
 ![](Region_tooltip.jpg)
 
+# Insights
 
+- Revenue generated was $48,528.944 and $53,463.662 for the year 2019 and 2018 respectively.
+- 
