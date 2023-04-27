@@ -82,6 +82,8 @@ In addition to this, I made use of the tool tip feature. This feature pops up wh
 - Product 7 had the highest units sold at 3,648
 - Christchurch city generated the highest revenue at $4,300,000 and had the highest order quantity at 3,353.
 
-# Recommendation
+# Recommendations
 
-- 
+- A year-on-year difference of -9.2% may indicate that the company is experiencing some challenges. It may be helpful to identify the reasons for this difference and develop strategies to address them.
+- Since Product 1 generated the highest revenue and Product 7 generated the highest profit, it may be beneficial to use same strategy that made these products generate high revenue & profit across non performing products. For example, the company could invest in marketing and advertising campaigns to increase awareness of these products and their benefits.
+- Since the revenue generated for 2019 was 30.7% away from meeting the goal, it may be worth reviewing and adjusting the revenue goal for 2020 to make it more realistic and achievable.
