@@ -10,10 +10,11 @@ This is an analysis of **Sales Performance**, **Product Performance** and **Regi
 The aim of this analysis is to answer the following Business related questions
 
 - Find the sales, product and region performance of 2018 and 2019?
-- Do a forecast to the revenue for 2020?
+- What will be the forecast for Dec 2020 revenue?
 - Ascertain the products that generated the highest revenue for 2019?
-- Do a year on year analysis for sales and product performamce
-- Did the revenue for both 2018 & 2019 reach their target for the year?
+- Do a year on year analysis for sales and product performamce?
+- Did the revenue for 2019 reach their target for the year?
+- What region generated the highest revenue?
 
 # Skills & Concept used:
 
@@ -72,5 +73,18 @@ In addition to this, I made use of the tool tip feature. This feature pops up wh
 
 # Insights
 
+ What will be the forecast for Dec 2020 revenue?
+- Ascertain the products that generated the highest revenue for 2019?
+- Do a year on year analysis for sales and product performamce?
+- Did the revenue for 2019 reach their target for the year?
+- What region generated the highest revenue?
+
+
 - Revenue generated was $48,528.944 and $53,463.662 for the year 2019 and 2018 respectively.
+- Revenue for 2019 was 30.7% away from meeting the goal for the year.
+- The forecast for Dec 2020 Revenue was $3,550,000.
+- Year-on-year diff was -9.2%.
+- The product that generated the highest revenue was product 1 at $17,000,000
+- The product that generated the highest profit was product 7 at $7,700,000
+- Product 7 had the highest units sold at 3,648
 - 
