@@ -59,7 +59,7 @@ Appropriate charts were used to give insights about the sales performance betwee
 
 Visual charts were created to answer the business case questions about product performance and year on year comparison of products bewtween 2018 and 2019. Conditional formatting was used to signify products that were peroforming and generating more revenue from non performing products.
 
-![](Product_Performance.jpg)
+![](Product_Performance(2).jpg)
 
 # Region Performance Visualization
 
@@ -73,13 +73,6 @@ In addition to this, I made use of the tool tip feature. This feature pops up wh
 
 # Insights
 
- What will be the forecast for Dec 2020 revenue?
-- Ascertain the products that generated the highest revenue for 2019?
-- Do a year on year analysis for sales and product performamce?
-- Did the revenue for 2019 reach their target for the year?
-- What region generated the highest revenue?
-
-
 - Revenue generated was $48,528.944 and $53,463.662 for the year 2019 and 2018 respectively.
 - Revenue for 2019 was 30.7% away from meeting the goal for the year.
 - The forecast for Dec 2020 Revenue was $3,550,000.
@@ -87,4 +80,8 @@ In addition to this, I made use of the tool tip feature. This feature pops up wh
 - The product that generated the highest revenue was product 1 at $17,000,000
 - The product that generated the highest profit was product 7 at $7,700,000
 - Product 7 had the highest units sold at 3,648
+- Christchurch city generated the highest revenue at $4,300,000 and had the highest order quantity at 3,353.
+
+# Recommendation
+
 - 
