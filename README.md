@@ -54,6 +54,12 @@ Appropriate charts were used to give insights about the sales performance betwee
 
 ![](Sales_performance.jpg)
 
+# Product Performance Visualization
+
+Visual charts were created to answer the business case questions about product performance and year on year comparison of products bewtween 2018 and 2019. Conditional formatting was used to signify products that were peroforming and generating more revenue from non performing products.
+
+![](Product_Performance.jpg)
+
 
 
 
